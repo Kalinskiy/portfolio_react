@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fde70eb6-bc97-4871-8cca-4a707f63c612" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="ProjectId" id="1frfMsCYVhFlvc71j53zZ5Kw0ZA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="D:\programming\it-incubator\Wednesday\portfolio\my-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Desktop\portfolio\my-app\src\Projects\ProjectItem" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Desktop\portfolio\my-app\src\Contact\ContactItem" />
+      <recent name="C:\Users\Александр\Desktop\portfolio\my-app\src\Projects\ProjectItem" />
+      <recent name="C:\Users\Александр\Desktop\portfolio\my-app\src\Service\ServiceItem" />
+      <recent name="C:\Users\Александр\Desktop\portfolio\my-app\src" />
+      <recent name="C:\Users\Александр\Desktop\portfolio\my-app\src\Header" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fde70eb6-bc97-4871-8cca-4a707f63c612" name="Default Changelist" comment="" />
+      <created>1596981086418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596981086418</updated>
+      <workItem from="1596981087592" duration="15811000" />
+      <workItem from="1597069577203" duration="599000" />
+      <workItem from="1597088108566" duration="3326000" />
+      <workItem from="1597159669028" duration="10416000" />
+      <workItem from="1597176668799" duration="4138000" />
+      <workItem from="1597181158705" duration="2556000" />
+    </task>
+    <task id="LOCAL-00001" summary="added react">
+      <created>1597182498310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597182498310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added react">
+      <created>1597182692304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597182692304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added react" />
+    <option name="LAST_COMMIT_MESSAGE" value="added react" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="116" key="CommitChangelistDialog2" timestamp="1597182691236">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="585" y="116" key="CommitChangelistDialog2/0.30.1920.1050/-1920.160.1920.1050@0.30.1920.1050" timestamp="1597182691236" />
+    <state x="585" y="116" key="CommitChangelistDialog2/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597160870934" />
+    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1597177046274">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050/-1920.160.1920.1050@0.30.1920.1050" timestamp="1597177046274" />
+    <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597169115819" />
+    <state x="522" y="348" key="Vcs.Push.Dialog.v2" timestamp="1597182509784">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="522" y="348" key="Vcs.Push.Dialog.v2/0.30.1920.1050/-1920.160.1920.1050@0.30.1920.1050" timestamp="1597182509784" />
+    <state x="334" y="-25" width="1548" height="1037" maximized="true" key="dock-window-1" timestamp="1597167616396">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="334" y="-25" width="1548" height="1037" maximized="true" key="dock-window-1/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597167616396" />
+    <state x="-1561" y="95" width="1548" height="1037" maximized="true" key="dock-window-2" timestamp="1597168285825">
+      <screen x="-1920" y="95" width="1920" height="1050" />
+    </state>
+    <state x="-1561" y="95" width="1548" height="1037" maximized="true" key="dock-window-2/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597168285825" />
+    <state x="667" y="290" width="585" height="530" key="find.popup" timestamp="1597090861661">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="667" y="290" width="585" height="530" key="find.popup/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597090861661" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1597168613277">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597168613277" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1597175862518">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050/-1920.160.1920.1050@0.30.1920.1050" timestamp="1597175862518" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050/-1920.95.1920.1050@0.30.1920.1050" timestamp="1597168353771" />
+  </component>
+</project>

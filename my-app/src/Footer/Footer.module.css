@@ -1,0 +1,89 @@
+#footer {
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+
+}
+
+#footer .footer {
+    min-height: 200px;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 10px;
+
+}
+
+#footer .socialIcon {
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: center;
+    background-repeat: no-repeat;
+
+}
+
+#footer .socialItem:nth-child(1){
+    background-image: url("../img/icons/instagram.png");
+    cursor: pointer;
+
+}
+#footer .socialItem:nth-child(2){
+    background-image: url("../img/icons/facebook.png");
+    cursor: pointer;
+}
+#footer .socialItem:nth-child(3){
+    background-image: url("../img/icons/vk.png");
+    cursor: pointer;
+
+
+}
+#footer .socialItem:nth-child(4){
+    background-image: url("../img/icons/linkedIn.png");
+    cursor: pointer;
+
+}
+#footer .socialItem {
+    transition: .3s ease transform;
+
+
+
+
+}
+
+#footer .socialItem:hover {
+    transform: scale(1.4);
+
+
+}
+
+#footer .socialItem {
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
+    display: flex;
+
+}
+
+#footer h1 {
+    display: flex;
+    justify-content: center;
+}
+#footer h1 span:nth-child(2){
+    margin-left:10px;
+}
+#footer h2 {
+    color: white;
+    font-weight: 500;
+    font-size: 1.8rem;
+    letter-spacing: .2rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+#footer p {
+    color: white;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,61 @@
+.container {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sectionTitle {
+    font-size: 4rem;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+
+ .sectionTitle span {
+    color: crimson;
+
+}
+
+
+.cta {
+    display: inline-block;
+    padding: 10px 30px;
+    color: white;
+    border: 2px solid crimson;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    margin-top: 30px;
+    transition: .3s ease background-color;
+    transition-property: background-color, color;
+}
+
+.cta:hover {
+    color: white;
+    background-color: crimson;
+}
+
+.brand h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: white
+}
+
+.brand h1 span {
+    color: crimson;
+}
+
+@media only screen and (min-width: 768px) {
+    .cta {
+        font-size: 5rem;
+        padding: 20px 60px;
+    }
+    h1.sectionTitle {
+        font-size: 6rem;
+    }
+}

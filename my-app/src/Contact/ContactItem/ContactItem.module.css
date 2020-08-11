@@ -1,0 +1,70 @@
+
+
+
+ .contactItem {
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 5px 0 #0000002c;
+    transition: .3s ease box-shadow;
+}
+
+ .contactItem:hover {
+    box-shadow: 0 0 18px 0 #0000002c;
+}
+
+ .icon {
+    width: 70px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+ .contactInfo h3 {
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-bottom: 5px;
+
+}
+
+ .contactInfo h4 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 2rem;
+
+
+}
+@media only screen and (min-width: 1200px) {
+
+}
+@media only screen and (min-width: 768px) {
+
+
+     .contactItem {
+        width: 30%;
+        margin: 0;
+        cursor: pointer;
+        flex-direction: row;
+    }
+
+     .contactItem .icon {
+        height: 100px;
+        width: 100px;
+    }
+
+     .contactItem .icon img {
+
+        object-fit: contain;
+    }
+
+     .contactItem .contactInfo {
+        width: 100%;
+        text-align: left;
+        padding-left: 20px;
+    }
+}

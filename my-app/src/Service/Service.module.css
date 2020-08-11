@@ -1,0 +1,45 @@
+  .services {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+
+.serviceBottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.serviceTop {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+
+
+
+.serviceBottom .icon {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    .serviceBottom  {
+        flex-basis: 45%;
+        margin: 1.5%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .serviceBottom  {
+        flex-basis: 22%;
+    }
+}
