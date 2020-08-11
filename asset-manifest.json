@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.052d73da.chunk.css",
+    "main.js": "/portfolio_react/static/js/main.2a017a31.chunk.js",
+    "main.js.map": "/portfolio_react/static/js/main.2a017a31.chunk.js.map",
+    "runtime-main.js": "/portfolio_react/static/js/runtime-main.3e6fd58f.js",
+    "runtime-main.js.map": "/portfolio_react/static/js/runtime-main.3e6fd58f.js.map",
+    "static/js/2.8f228705.chunk.js": "/portfolio_react/static/js/2.8f228705.chunk.js",
+    "static/js/2.8f228705.chunk.js.map": "/portfolio_react/static/js/2.8f228705.chunk.js.map",
+    "index.html": "/portfolio_react/index.html",
+    "precache-manifest.e71b4dd6774b0f41f875c34535a774fa.js": "/portfolio_react/precache-manifest.e71b4dd6774b0f41f875c34535a774fa.js",
+    "service-worker.js": "/portfolio_react/service-worker.js",
+    "static/css/main.052d73da.chunk.css.map": "/portfolio_react/static/css/main.052d73da.chunk.css.map",
+    "static/js/2.8f228705.chunk.js.LICENSE.txt": "/portfolio_react/static/js/2.8f228705.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio_react/static/media/hero-bg.fbd87e1b.png",
+    "static/media/img-1.png": "/portfolio_react/static/media/img-1.f636c6b7.png",
+    "static/media/img-2.png": "/portfolio_react/static/media/img-2.c641b8d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6fd58f.js",
+    "static/js/2.8f228705.chunk.js",
+    "static/css/main.052d73da.chunk.css",
+    "static/js/main.2a017a31.chunk.js"
+  ]
+}
